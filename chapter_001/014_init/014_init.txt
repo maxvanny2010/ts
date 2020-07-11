@@ -1,0 +1,10 @@
+npm init create package.json
+npm i --save-dev webpack typescript install packages for develops
+create webpack.config.js
+npm i -g webpack set globally webpack
+set path in/out webpack.config.js
+set dist bundler.html
+npm install awesome-typescript-loader --save-dev to js5
+https://github.com/s-panferov/awesome-typescript-loader
+npm i -g webpack-cli
+webpack => compile src/013_namespace.ts
